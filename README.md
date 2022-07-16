@@ -14,3 +14,4 @@
 - 🗣 Fluent in: Japanese (native), English (billingual), German (CEFRL C1 level)
 - 📚 Former magazine editor
 - 🍕 Complete sucker for pizza
+- 🎤 Professional karaoke singer
