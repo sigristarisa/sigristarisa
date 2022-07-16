@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello, Grützi, Konnichiwa – I'm Arisa👋
+### Full-Stack Developer Wannabe based in Zürich, Switzerland.
 
-<!--
-**sigristarisa/sigristarisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TECH BIO**
+- 💻 Software Development student at Boolean UK
+- 💭 I use: ``.js``, ``.jsx``, ``.spec.js``, ``.css``, ``.scss``, ``.html``
+- 📖 I also use: React.js, Node.js, Express.js, postgreSQL, Prisma, Cypress
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**PERSONAL BIO**
+- 🇯🇵 From Tokyo, Japan
+- 🇺🇸 Grew up in America and Canada
+- 🗣 Fluent in: Japanese (native), English (billingual), German (CEFRL C1 level)
+- 📚 Former magazine editor
+- 🍕 Complete sucker for pizza
