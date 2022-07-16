@@ -10,6 +10,7 @@
 **PERSONAL BIO**
 - 🇯🇵 From Tokyo, Japan
 - 🇺🇸 Grew up in America and Canada
+- 🇨🇭 Live in Switzerland since 2017
 - 🗣 Fluent in: Japanese (native), English (billingual), German (CEFRL C1 level)
 - 📚 Former magazine editor
 - 🍕 Complete sucker for pizza
