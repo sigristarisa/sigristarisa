@@ -4,7 +4,7 @@
 **TECH BIO**
 - 💻 Software Development student at Boolean UK
 - 💭 I use: ``.js``, ``.jsx``, ``.spec.js``, ``.css``, ``.scss``, ``.html``
-- 📖 I also use: React.js, Node.js, Express.js, postgreSQL, Prisma, Cypress
+- 📖 I also use: React.js, Node.js, Express.js, postgreSQL, Prisma, Rest API, Git, Cypress
 - 🔁 Have the tendency to commit every 10 minutes
 
 **PERSONAL BIO**
