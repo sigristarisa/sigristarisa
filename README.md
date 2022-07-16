@@ -1,5 +1,5 @@
 ## Hello, Grützi, Konnichiwa – I'm Arisa👋
-### Full-Stack Developer Wannabe based in Zürich, Switzerland.
+### Full-Stack Developer Wannabe Based in Zürich, Switzerland.
 
 **TECH BIO**
 - 💻 Software Development student at Boolean UK
