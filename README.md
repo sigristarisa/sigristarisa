@@ -1,4 +1,4 @@
-## Hello, Grützi, Konnichiwa – I'm Arisa👋
+## Hello, Grüezi, Konnichiwa – I'm Arisa👋
 ### Full-Stack Developer Wannabe Based in Zürich, Switzerland
 
 **TECH BIO**
