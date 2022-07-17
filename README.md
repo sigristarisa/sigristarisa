@@ -8,7 +8,10 @@
 - ⤴️ Tend to commit every 10 minutes
 
 **PROJECTS**
-- 🌤 [Minimalistic Weather App](https://sigristarisa.github.io/Weather-App/)
+- 🌤 [Minimalistic Weather App](https://sigristarisa.github.io/Weather-App/) <br />
+     A simple yet aesthetically pleasing app to search and display the weather of a specific location by using weather API
+     
+<i>Repositories are pinned down below</i>
   
 
 **PERSONAL BIO**
