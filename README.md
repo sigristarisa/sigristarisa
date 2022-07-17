@@ -7,6 +7,10 @@
 - 📖 I also use: React.js, Node.js, Express.js, postgreSQL, Prisma, Rest API, Git, Cypress
 - ⤴️ Tend to commit every 10 minutes
 
+**PROJECTS**
+- 🌤 [Minimalistic Weather App](https://sigristarisa.github.io/Weather-App/)
+  
+
 **PERSONAL BIO**
 - 🇯🇵 From Tokyo, Japan
 - 🇺🇸 Grew up in America and Canada
