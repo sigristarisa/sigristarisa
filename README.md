@@ -5,7 +5,7 @@
 - 💻 Software Development student at Boolean UK
 - 💭 I use: ``.js``, ``.jsx``, ``.spec.js``, ``.css``, ``.scss``, ``.html``
 - 📖 I also use: React.js, Node.js, Express.js, postgreSQL, Prisma, Rest API, Git, Cypress
-- ⤴️ Tend to commit every 10 minutes
+- ⤴️ Tend to commit every 15 minutes
 
 **PROJECTS**
 - 🌤 [Minimalistic Weather App](https://sigristarisa.github.io/Weather-App/) <br />
