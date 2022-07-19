@@ -9,7 +9,7 @@
 - 🛸 Tackling on [Code War](https://www.codewars.com/users/sigristarisa) – practice makes the master!
 
 **PROJECTS**
-- 🌤 [Minimalistic Weather App](https://sigristarisa.github.io/Weather-App/) <br />
+- 🌤 **[Minimalistic Weather App](https://sigristarisa.github.io/Weather-App/)** <br />
      A simple yet aesthetically pleasing app to search and display the weather of a specific location by using weather API
      
 <i>*Repositories are pinned down below</i>
