@@ -4,7 +4,7 @@
 **TECH BIO**
 - 💻 Software Development student at Boolean UK
 - 💭 I use: ``.js``, ``.jsx``, ``.spec.js``, ``.css``, ``.scss``, ``.html``
-- 📖 I also use: React.js, Node.js, Express.js, postgreSQL, Prisma, Rest API, Jasmine, Git
+- 📖 I also use: React.js, Node.js, Express.js, Prisma, postgreSQL, Rest API, Jasmine, Git
 - ⤴️ Tend to commit every 15 minutes
 - 🛸 Tackling on [Code War](https://www.codewars.com/users/sigristarisa) – practice makes the master!
 
