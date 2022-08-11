@@ -7,6 +7,7 @@
 - 📖 I also use: React.js, Node.js, Express.js, Prisma, postgreSQL, Rest API, Jasmine, Git
 - ⤴️ Tend to commit every 15 minutes
 - 🛸 Tackling on [Code War](https://www.codewars.com/users/sigristarisa) – practice makes the master!
+- 👩‍💻 LinkedIn profile can be found [here](www.linkedin.com/in/arisa-sigrist-4461a3241)
 
 **PROJECTS**
 - 🌤 **[Minimalistic Weather App](https://sigristarisa.github.io/Weather-App/)** <br />
