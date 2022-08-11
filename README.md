@@ -2,7 +2,7 @@
 ### Full-Stack Developer Wannabe Based in Zürich, Switzerland
 
 **TECH BIO**
-- 💻 Recent graudate from full-time Software development course of [Boolean UK](https://boolean.co.uk/?utm_source=google&utm_campaign=cl1_search_brand&utm_medium=cpc&utm_content=boolean&gclid=CjwKCAjw0dKXBhBPEiwA2bmObWUv639baHQPEgjyu_XPc18sX1ytcIJklv4kbAUs9UsdKPHX8JokGxoCbZEQAvD_BwE)
+- 💻 Recent graduate from full-time Software development course of [Boolean UK](https://boolean.co.uk/?utm_source=google&utm_campaign=cl1_search_brand&utm_medium=cpc&utm_content=boolean&gclid=CjwKCAjw0dKXBhBPEiwA2bmObWUv639baHQPEgjyu_XPc18sX1ytcIJklv4kbAUs9UsdKPHX8JokGxoCbZEQAvD_BwE)
 - 💭 I use: ``.js``, ``.jsx``, ``.spec.js``, ``.css``, ``.scss``, ``.html``
 - 📖 I also use: React.js, Node.js, Express.js, Prisma, postgreSQL, Rest API, Jasmine, Git
 - ⤴️ Tend to commit every 15 minutes
