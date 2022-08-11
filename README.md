@@ -10,6 +10,9 @@
 - 👩‍💻 LinkedIn profile can be found [here](www.linkedin.com/in/arisa-sigrist-4461a3241)
 
 **PROJECTS**
+- 🥕 **[Take Root](https://take-root-client.herokuapp.com/)** <br />
+     The first online garden planner, combining the square-foot method and the companion method
+     
 - 🌤 **[Minimalistic Weather App](https://sigristarisa.github.io/Weather-App/)** <br />
      A simple yet aesthetically pleasing app to search and display the weather of a specific location by using weather API
      
