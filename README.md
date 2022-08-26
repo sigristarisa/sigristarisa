@@ -13,6 +13,9 @@
 - 🥕 **[Take Root](https://take-root-client.herokuapp.com/)** <br />
      The first online garden planner, combining the square-foot method and the companion method
      
+- 🥚 **[MOTD](https://motd-client-sample.herokuapp.com/)** <br/>
+     Mayonnaise Of The Day – a randomizer to get your mayonnaise of the day out of 100 variations
+     
 - 🌤 **[Minimalistic Weather App]( https://sigristarisa.github.io/Weather-app-ts/)** <br />
      A simple yet aesthetically pleasing app to search and display the weather of a specific location by using weather API
      
