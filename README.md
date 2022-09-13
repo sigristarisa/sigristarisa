@@ -10,7 +10,7 @@
 - 👩‍💻 LinkedIn profile can be found [here](https://www.linkedin.com/in/sigristarisa/)
 
 **PROJECTS**
-- 🥕 **[Take Root](https://take-root-client.herokuapp.com/)** <br />
+- 🥕 **[Take Root](https://take-root-client.onrender.com/)** <br />
      The first online garden planner, combining the square-foot method and the companion method
      
 - 🥚 **[MOTD](https://motd-client-sample.herokuapp.com/)** <br/>
