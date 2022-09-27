@@ -16,6 +16,9 @@
 - 🥚 **[MOTD](https://motd-client-sample.herokuapp.com/)** <br/>
      Mayonnaise Of The Day – a randomizer to get your mayonnaise of the day out of 100 variations
      
+- 🦊 **[Hike.Eat.Sleep.](https://www.wanderfux.com/)** <br/>
+     A website including blog posts and subscription, managed with Prismic (first client work)
+     
 - 🌤 **[Minimalistic Weather App]( https://sigristarisa.github.io/Weather-app-ts/)** <br />
      A simple yet aesthetically pleasing app to search and display the weather of a specific location by using weather API
      
