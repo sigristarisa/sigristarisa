@@ -4,10 +4,10 @@
 **TECH BIO**
 - 🎓 Recent graduate from full-time Software development course of [Boolean UK](https://boolean.co.uk/?utm_source=google&utm_campaign=cl1_search_brand&utm_medium=cpc&utm_content=boolean&gclid=CjwKCAjw0dKXBhBPEiwA2bmObWUv639baHQPEgjyu_XPc18sX1ytcIJklv4kbAUs9UsdKPHX8JokGxoCbZEQAvD_BwE)
 - 💭 I use: ``.tsx``, ``.jsx`` ,``.ts``, ``.js``, ``.spec.js``, ``.sql``, ``.scss``, ``.css``, ``.html``
-- 📖 I also use: React.js, Node.js, Express.js, Prisma, postgreSQL, Rest API, Jasmine, Git
+- 📖 I also use: React.js, Node.js, Express.js, Prisma, postgreSQL, Rest API, Jasmine, Git, Regex
 - ⤴️ Tend to commit every 15 minutes
 - 🛸 Tackling on [Code War](https://www.codewars.com/users/sigristarisa) – practice makes the master!
-- 💻 Currently studying: ``.py``, Kubernetes
+- 💻 Currently studying: ``.py``
 - 👩‍💻 LinkedIn profile can be found [here](https://www.linkedin.com/in/sigristarisa/)
 
 **PROJECTS**
