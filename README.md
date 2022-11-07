@@ -7,7 +7,7 @@
 - 📖 I also use: React.js, Node.js, Express.js, Prisma, postgreSQL, Rest API, Jasmine, Git, Regex
 - ⤴️ Tend to commit every 15 minutes
 - 🛸 Tackling on [Code War](https://www.codewars.com/users/sigristarisa) – practice makes the master!
-- 💻 Currently studying: ``.py``
+- 💻 Currently studying: Next.js, ``.py``
 - 👩‍💻 LinkedIn profile can be found [here](https://www.linkedin.com/in/sigristarisa/)
 
 **PROJECTS**
