@@ -14,7 +14,7 @@
 - 🥕 **[Take Root](https://take-root-client.onrender.com/)** <br />
      The first online garden planner, combining the square-foot method and the companion method
      
-- 🥚 **[MOTD](https://motd-client-sample.herokuapp.com/)** <br/>
+- 🥚 **[MOTD](https://motd-nextjs.vercel.app/)** <br/>
      Mayonnaise Of The Day – a randomizer to get your mayonnaise of the day out of 100 variations
      
 - 🦊 **[Hike.Eat.Sleep.](https://www.wanderfux.com/)** <br/>
