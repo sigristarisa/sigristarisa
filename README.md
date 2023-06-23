@@ -2,7 +2,8 @@
 ### Software Developer Based in Zürich, Switzerland
 
 **TECH BIO**
-- 🎓 Recent graduate from full-time Software Development Course of [Boolean UK](https://boolean.co.uk/?utm_source=google&utm_campaign=cl1_search_brand&utm_medium=cpc&utm_content=boolean&gclid=CjwKCAjw0dKXBhBPEiwA2bmObWUv639baHQPEgjyu_XPc18sX1ytcIJklv4kbAUs9UsdKPHX8JokGxoCbZEQAvD_BwE)
+- 🚙 Junior Software Engineer at [Farie AG](https://www.farie.ch/)
+- 🎓 Graduate from full-time Software Development Course of [Boolean UK](https://boolean.co.uk/?utm_source=google&utm_campaign=cl1_search_brand&utm_medium=cpc&utm_content=boolean&gclid=CjwKCAjw0dKXBhBPEiwA2bmObWUv639baHQPEgjyu_XPc18sX1ytcIJklv4kbAUs9UsdKPHX8JokGxoCbZEQAvD_BwE)
 - 💭 I use: ``.tsx``, ``.jsx`` ,``.ts``, ``.js``, ``.spec.js``, ``.sql``, ``.scss``, ``.css``, ``.html``
 - 📖 I also use: React.js, Node.js, Express.js, Prisma, postgreSQL, Rest API, Jasmine, Git, Regex
 - ⤴️ Tend to commit every 15 minutes
@@ -10,7 +11,7 @@
 - 💻 Currently studying: ``.py``, Django, Next.js, Tailwind.css
 - 👩‍💻 LinkedIn profile can be found [here](https://www.linkedin.com/in/sigristarisa/)
 
-**PROJECTS**
+**PERSONAL PROJECTS**
 - 🥕 **[Take Root](https://take-root-client.onrender.com/)** <br />
      The first online garden planner, combining the square-foot method and the companion method
      
