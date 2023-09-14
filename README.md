@@ -2,7 +2,7 @@
 ### Software Developer Based in Zürich, Switzerland
 
 **TECH BIO**
-- 🚙 Junior Software Engineer at [Farie AG](https://www.farie.ch/)
+- 🧮 Technical Generalist at [Zuüan AG](https://www.zupan.io/)
 - 🎓 Graduate from full-time Software Development Course of [Boolean UK](https://boolean.co.uk/?utm_source=google&utm_campaign=cl1_search_brand&utm_medium=cpc&utm_content=boolean&gclid=CjwKCAjw0dKXBhBPEiwA2bmObWUv639baHQPEgjyu_XPc18sX1ytcIJklv4kbAUs9UsdKPHX8JokGxoCbZEQAvD_BwE)
 - 💭 I use: ``.tsx``, ``.jsx`` ,``.ts``, ``.js``, ``.spec.js``, ``.sql``, ``.scss``, ``.css``, ``.html``
 - 📖 I also use: React.js, Node.js, Express.js, Prisma, postgreSQL, Rest API, Jasmine, Git, Regex
