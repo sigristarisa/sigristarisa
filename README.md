@@ -5,10 +5,9 @@
 - 🌐 Fullstack Software Developer at [echt3D](https://www.echt3d.ch/)
 - 🎓 Graduate from full-time Software Development Course of [Boolean UK](https://boolean.co.uk/?utm_source=google&utm_campaign=cl1_search_brand&utm_medium=cpc&utm_content=boolean&gclid=CjwKCAjw0dKXBhBPEiwA2bmObWUv639baHQPEgjyu_XPc18sX1ytcIJklv4kbAUs9UsdKPHX8JokGxoCbZEQAvD_BwE)
 - 💭 I use: ``.tsx``, ``.jsx`` ,``.ts``, ``.js``, ``.spec.js``, ``.sql``, ``.scss``, ``.css``, ``.html``
-- 📖 I also use: React.js, Node.js, Express.js, Prisma, postgreSQL, Rest API, Jasmine, Git, Regex
+- 📖 I also use: Next.js, React.js, Node.js, Express.js, Tailwind CSS, Prisma, postgreSQL, Rest API, Jasmine, Git, Regex
 - ⤴️ Tend to commit every 15 minutes
 - 🛸 Tackling on [Code War](https://www.codewars.com/users/sigristarisa) – practice makes the master!
-- 💻 Currently studying: ``.py``, Django, Next.js, Tailwind.css
 - 👩‍💻 LinkedIn profile can be found [here](https://www.linkedin.com/in/sigristarisa/)
 
 **PERSONAL PROJECTS**
